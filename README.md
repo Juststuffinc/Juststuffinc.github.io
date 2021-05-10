@@ -24,8 +24,7 @@ Other, smaller projects
 This was a small test game I made in Unity to test shooting and throwing items
 
 -----
-Future projects
------
-Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels.
+
+Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knights
 
 
