@@ -16,3 +16,8 @@ The game is a Survival Horror game that revolves around a mystery of some missin
 
 ![image](https://user-images.githubusercontent.com/58781443/117678936-db1be980-b17d-11eb-8544-c1d15d19ae88.png)
 
+
+Other, smaller projects 
+![image](https://user-images.githubusercontent.com/58781443/117681817-7ada7700-b180-11eb-9447-07239901a346.png)
+This was a small test game I made in Unity to test shooting and throwing items
+
