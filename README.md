@@ -13,3 +13,6 @@ The Elevator Game (Working Title)
 The Elevator Game is my main project right now. I am working with a team known as "Cool Group Games" who have had one game release in the past. You can check them out over on Itch! (https://coolgroup-games.itch.io/)
 
 The game is a Survival Horror game that revolves around a mystery of some missing children.
+
+![image](https://user-images.githubusercontent.com/58781443/117678936-db1be980-b17d-11eb-8544-c1d15d19ae88.png)
+
