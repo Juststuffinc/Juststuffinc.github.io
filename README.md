@@ -5,7 +5,7 @@ What I'm working on and what I have made.
 Hello, my name is Billy (otherwise known as Juststuffinc) and I am a semi independent game dev that specializes in C#! I work in Unity and the Source engine respectfully.
 
 My current projects:
-
+-----
 The Elevator Game (Working Title)
 
 ![image](https://user-images.githubusercontent.com/58781443/117677796-c854e500-b17c-11eb-909a-9b8304fe1a40.png)
@@ -16,8 +16,16 @@ The game is a Survival Horror game that revolves around a mystery of some missin
 
 ![image](https://user-images.githubusercontent.com/58781443/117678936-db1be980-b17d-11eb-8544-c1d15d19ae88.png)
 
+-----
+Other, smaller projects
+-----
 
-Other, smaller projects 
 ![image](https://user-images.githubusercontent.com/58781443/117681817-7ada7700-b180-11eb-9447-07239901a346.png)
 This was a small test game I made in Unity to test shooting and throwing items
+
+-----
+Future projects
+-----
+Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels.
+
 
