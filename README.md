@@ -25,6 +25,7 @@ This was a small test game I made in Unity to test shooting and throwing items
 
 -----
 
-Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knights
+Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knight Jedi Academy.
+https://www.youtube.com/watch?v=MygBsGmTa2g&ab_channel=unLeashed_FPS
 
 
