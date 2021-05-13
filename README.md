@@ -18,6 +18,7 @@ The game is a Survival Horror game that revolves around a mystery of some missin
 
 -----
 Some things I have done in Hammer1 and Hammer2
+-----
 
 This was my first actual attempt at mapping in the new Hammer editor.
 ![ayo](https://user-images.githubusercontent.com/58781443/118154583-3ac7fe00-b3e5-11eb-9308-641cfcbb5f63.jpeg)
@@ -53,9 +54,20 @@ https://user-images.githubusercontent.com/58781443/118155116-dd807c80-b3e5-11eb-
 This was a small test game I made in Unity to test shooting and throwing items; It's shitty but it got the job done.
 
 -----
+Plans for S&Box
+-----
 
 Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knight Jedi Academy. In the game, you have to move your mouse around to do a swing move, I think that it would translate well into S&Box.
+
+Screenshot from the game:
 ![image](https://user-images.githubusercontent.com/58781443/118155640-70211b80-b3e6-11eb-95c1-79ebea9e720b.png)
+
+
+Another gamemode idea I have is a Zombie Wave Shooter type game where you are slowly able to upgrade items and place traps n' such. It would be similar in gameplay to "Zombie Builder Defense" on Steam 
+
+Screenshot from the game: 
+![image](https://user-images.githubusercontent.com/58781443/118156255-238a1000-b3e7-11eb-8ea9-c43f44b0b492.png)
+
 
 
 
