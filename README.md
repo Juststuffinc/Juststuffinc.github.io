@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/58781443/118155116-dd807c80-b3e5-11eb-
 
 
 
-This was a small test game I made in Unity to test shooting and throwing items
+This was a small test game I made in Unity to test shooting and throwing items; It's shitty but it got the job done.
 
 -----
 
