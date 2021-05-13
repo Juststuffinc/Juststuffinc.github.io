@@ -25,7 +25,7 @@ This was my first actual attempt at mapping in the new Hammer editor.
 ![image](https://user-images.githubusercontent.com/58781443/118154787-795db880-b3e5-11eb-937b-28c2313dc3c8.png)
 
 
-I made this after watching the Eagle One Dev Team.
+I made this after watching the Eagle One Dev Team tutorials.
 
 
 ![0f3a603fe2d0338738ce70990dc2d0ffa14833e3](https://user-images.githubusercontent.com/58781443/118154737-6b0f9c80-b3e5-11eb-93a3-d004017f8f6b.gif)
