@@ -59,14 +59,17 @@ Plans for S&Box
 
 Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knight Jedi Academy. In the game, you have to move your mouse around to do a swing move, I think that it would translate well into S&Box.
 
+
 Screenshot from the game:
 ![image](https://user-images.githubusercontent.com/58781443/118155640-70211b80-b3e6-11eb-95c1-79ebea9e720b.png)
 
 
 Another gamemode idea I have is a Zombie Wave Shooter type game where you are slowly able to upgrade items and place traps n' such. It would be similar in gameplay to "Zombie Builder Defense" on Steam 
 
+
 Screenshot from the game: 
-![image](https://user-images.githubusercontent.com/58781443/118156255-238a1000-b3e7-11eb-8ea9-c43f44b0b492.png)
+![image] ![image](https://user-images.githubusercontent.com/58781443/118156351-41577500-b3e7-11eb-9b25-1d017973462c.png)
+
 
 
 
