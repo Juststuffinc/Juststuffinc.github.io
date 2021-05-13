@@ -54,7 +54,8 @@ This was a small test game I made in Unity to test shooting and throwing items; 
 
 -----
 
-Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knight Jedi Academy.
+Once S&Box enevitibly releases, I will be making a gamemode with the help of one other person revolving around LightSaber Duels. It will be using the fighting system that resembles the one in Jedi Knight Jedi Academy. In the game, you have to move your mouse around to do a swing move, I think that it would translate well into S&Box.
+![image](https://user-images.githubusercontent.com/58781443/118155640-70211b80-b3e6-11eb-95c1-79ebea9e720b.png)
 
 
 
