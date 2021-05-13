@@ -32,6 +32,7 @@ I made this after watching the Eagle One Dev Team tutorials.
 
 Messing around with dynamic prop animations.
 ![image](https://user-images.githubusercontent.com/58781443/118155285-11f43880-b3e6-11eb-8799-195ffc3143f9.png)
+
 (Video file was too large, I don't really feel like compressing it lmao)
 
 
