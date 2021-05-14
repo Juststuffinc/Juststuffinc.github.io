@@ -17,7 +17,12 @@ The game is a Survival Horror game that revolves around a mystery of some missin
 ![image](https://user-images.githubusercontent.com/58781443/117678936-db1be980-b17d-11eb-8544-c1d15d19ae88.png)
 
 -----
-Some things I have done in Hammer1 and Hammer2
+Some of my finished maps
+-----
+![image](https://user-images.githubusercontent.com/58781443/118340696-7a2c4280-b4ea-11eb-9556-b3c6d12dee5e.png)
+
+-----
+Test maps
 -----
 
 This was my first actual attempt at mapping in the new Hammer editor.
