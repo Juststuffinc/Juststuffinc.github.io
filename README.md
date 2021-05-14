@@ -14,8 +14,6 @@ The Elevator Game is my main project right now. I am working with a team known a
 
 The game is a Survival Horror game that revolves around a mystery of some missing children.
 
-![image](https://user-images.githubusercontent.com/58781443/117678936-db1be980-b17d-11eb-8544-c1d15d19ae88.png)
-
 -----
 Some of my finished maps
 -----
