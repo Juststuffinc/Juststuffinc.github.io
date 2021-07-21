@@ -2,7 +2,7 @@
 What I'm working on and what I have made.
 
 
-Hello, my name is Billy (otherwise known as Juststuffinc) and I am a semi independent game dev that uses C# as their main language!I work in Unity and the Source engine respectfully.
+Hello, my name is Billy (otherwise known as Juststuffinc) and I am a semi independent game dev that uses C# as their main language! I work in Unity and the Source engine respectfully.
 
 I know how to use both Source Hammer and Source 2 Hammer!
 
@@ -54,7 +54,10 @@ Test maps
 
 
 This was my first actual attempt at mapping in the new Hammer editor.
-(I really reccomened Eagle Teams Hammer tutorials if you are just starting out.)
+
+   (I really reccomened Eagle Teams Hammer tutorials if you are just starting out.)
+   
+   
 ![ayo](https://user-images.githubusercontent.com/58781443/118154583-3ac7fe00-b3e5-11eb-9308-641cfcbb5f63.jpeg)
 
 ![image](https://user-images.githubusercontent.com/58781443/118154787-795db880-b3e5-11eb-937b-28c2313dc3c8.png)
@@ -110,6 +113,19 @@ Another gamemode idea I have is a Zombie Wave Shooter type game where you are sl
 
 Screenshot from the game: 
 ![image] ![image](https://user-images.githubusercontent.com/58781443/118156351-41577500-b3e7-11eb-9b25-1d017973462c.png)
+
+
+-----
+Contact
+-----
+If you are reading this and need more info about me, you can dm me on Discord!
+
+Juststuff#8051
+
+
+
+
+
 
 
 
