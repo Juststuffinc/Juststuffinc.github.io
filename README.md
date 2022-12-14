@@ -2,16 +2,12 @@
 What I'm working on and what I have made.
 
 
-Hello, my name is Billy (otherwise known as Juststuffinc) and I am a semi independent game dev that uses C# as their main language! I work in Unity and the Source engine respectfully.
+Well, its been a long time since I have last updates this portfolio, and I have definitely come a long way since my last commit to it. 
+My current language target is C, and CPP
 
-I know how to use both Source Hammer and Source 2 Hammer!
+More updates with my main projects will come relatively soon, once I can release more info about them.
 
-
-
-
-
-
-My current projects:
+Old Projects:
 -----
 Recently I have been wanting to challenge myself more and more and decided to get out of my comfort zone. One thing of Game-Design I haven't tried was well, animation. After getting some help with animating in blender, I have created a few (bad) animations.
 
@@ -29,7 +25,7 @@ Overall, the expirence I had animating was fairly fun! I had fun getting out of 
 
 
 -----
-Some of my maps
+ Old Maps
 -----
 (Small city map that I am currently working on for Garry's Mod)
 ![Citymap](https://user-images.githubusercontent.com/58781443/126570838-d2b09593-0e8b-4212-af55-e7de4db41b4b.JPG)
@@ -44,14 +40,7 @@ Some of my maps
 (still updating this one but its up on the workshop)
 ![20210708173713_1](https://user-images.githubusercontent.com/58781443/125141551-5ac52680-e0e3-11eb-9621-51e5810395ee.jpg)
 
-
-
-
 -----
-Test maps
------
-
-
 
 This was my first actual attempt at mapping in the new Hammer editor.
 
