@@ -1,11 +1,9 @@
-# JustsPortfolio
-What I'm working on and what I have made.
-
-
-Well, its been a long time since I have last updates this portfolio, and I have definitely come a long way since my last commit to it. 
+<h1> Well, its been a long time since I have last updates this portfolio, and I have definitely come a long way since my last commit to it. </h1>
+ 
 My current language target is C, and CPP
 
 More updates with my main projects will come relatively soon, once I can release more info about them.
+
 
 Old Projects:
 -----
