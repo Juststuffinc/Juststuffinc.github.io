@@ -1,4 +1,4 @@
-<h1> Well, its been a long time since I have last updates this portfolio, and I have definitely come a long way since my last commit to it. </h1>
+<h1>[THIS IS OUTDATED] </h1>
  
 <b> 
  My current language target is C, and CPP
